@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Compound If Statements\Compound If Statements\bin\Debug\Compound If Statements.exe.config
+C:\Users\user\source\repos\Compound If Statements\Compound If Statements\bin\Debug\Compound If Statements.exe
+C:\Users\user\source\repos\Compound If Statements\Compound If Statements\bin\Debug\Compound If Statements.pdb
+C:\Users\user\source\repos\Compound If Statements\Compound If Statements\bin\Debug\Compound If Statements.xml
+C:\Users\user\source\repos\Compound If Statements\Compound If Statements\obj\Debug\Compound If Statements.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\Compound If Statements\Compound If Statements\obj\Debug\Compound If Statements.vbproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Compound If Statements\Compound If Statements\obj\Debug\Compound_If_Statements.Form1.resources
+C:\Users\user\source\repos\Compound If Statements\Compound If Statements\obj\Debug\Compound_If_Statements.Resources.resources
+C:\Users\user\source\repos\Compound If Statements\Compound If Statements\obj\Debug\Compound If Statements.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\Compound If Statements\Compound If Statements\obj\Debug\Compound If Statements.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Compound If Statements\Compound If Statements\obj\Debug\Compound If Statements.exe
+C:\Users\user\source\repos\Compound If Statements\Compound If Statements\obj\Debug\Compound If Statements.xml
+C:\Users\user\source\repos\Compound If Statements\Compound If Statements\obj\Debug\Compound If Statements.pdb
